@@ -1,0 +1,22 @@
+# ======================
+# Explicitly exclude
+# ======================
+
+*.jpg
+*.png
+*.gif
+*.bmp
+*.tiff
+
+smtp_config.php
+
+Ex_Files_PHP_MySQL_EssT/
+
+# ======================
+# Explicitly include
+# ======================
+
+!config.php
+!.htaccess
+!btbsandbox.sql
+!sql_queries.sql
